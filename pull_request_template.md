@@ -1,6 +1,6 @@
 ## Security Checklist
 
-- [ ] Authorization has been implemented across these changes
+- [ ] [Authorization has been implemented across these changes!](http://google.com)
 - [ ] Injection has been prevented (parameterized queries, no eval or system calls)
 - [ ] Any web UI is escaping output (to prevent XSS)
 - [ ] Sensitive data has been identified and is being protected properly
